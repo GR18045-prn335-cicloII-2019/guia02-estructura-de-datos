@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/problema4Guia2.dir/main.c.o  -o problema4Guia2 
